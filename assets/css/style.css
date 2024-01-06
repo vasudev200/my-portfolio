@@ -263,8 +263,8 @@ h6 {
 
   width: 100%;
   height: 100vh;
-  background: url("../img/my-pic.jpg") top right;
-  background-size: 970px;
+  background: url("../img/web-img.jpg") top right;
+  background-size: cover;
   background-repeat: no-repeat;
   background-position: right;
   
