@@ -26,7 +26,7 @@ a:hover {
 
 /* width and height for the main scrollbar */
 ::-webkit-scrollbar {
-  width: 12px; 
+  width: 8px; 
 }
 
 /* Track (the area on which the thumb moves) */
